@@ -1,6 +1,6 @@
 # projetAnalyse
 
-<p> <strong>Introduction général</strong> </p>
+<p> <strong>#Introduction général</strong> </p>
 
 Ce projet permet d'étuder une fonction f(x) et de représenter graphiquement les méthodes d'intégration numériques , comme (méthode de rectangle , méthode des trapézes , méthode des points milieux , méthodes de simspon) en donnant pour chaque fonction sa valeur approché ,valeur exacte et l'erreur.
 
