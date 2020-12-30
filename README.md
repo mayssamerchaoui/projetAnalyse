@@ -6,7 +6,9 @@ Ce projet permet d'étuder une fonction f(x) et de représenter graphiquement le
 
 <p> <strong>Méthode des Rectangles à gauche</strong> </p>
 <p>on approche  <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/1.png" />
- par . Géométriquement, cela signifie qu'on approche l'intégrale de f par l'aire des rectangles hachurés en vert :</p>
+ par  <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/2.png" /> . 
+ Géométriquement, cela signifie qu'on approche l'intégrale de f par l'aire des rectangles hachurés en vert :
+<img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/3.png" /></p>
 
 
 <p> <strong>Méthode du Trapèse</strong> </p>
