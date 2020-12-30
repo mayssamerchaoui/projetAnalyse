@@ -7,7 +7,7 @@ Ce projet permet d'étuder une fonction f(x) et de représenter graphiquement le
 <p> <strong>Méthode des Rectangles à gauche</strong> </p>
 <p>on approche  <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/1.png" />
  par  <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/2.png" /> . 
- Géométriquement, cela signifie qu'on approche l'intégrale de f par l'aire des rectangles hachurés en vert :<hr />
+ Géométriquement, cela signifie qu'on approche l'intégrale de f par l'aire des rectangles hachurés en vert :<br />
   
   
  <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/3.png" /></p>
