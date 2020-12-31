@@ -26,6 +26,15 @@ Considérons donc une fonction de R dans R continue sur un intervalle [a,b]. Pou
 
 
 <li><p> <strong>Méthode du Trapèse :</strong> </p></li>
+
+
+<p>on approche<img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/6.png" />
+par 
+<img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/7.png" /> .</br>
+Géométriquement, cela signifie qu'on approche l'intégrale de f par l'aire des trapèzes hachurés en marron :<br />
+<img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/8.png" /></p> </p>
+
+<li><p> <strong>la méthode du point milieu: <p> </strong></li>
 <p>C’est la méthode la plus simple qui consiste à interpoler la fonction f à intégrer par une fonction constante (polynôme de degré 0).
 
 Si ξ est le point d’interpolation, la formule est la suivante :<br/>
@@ -42,14 +51,6 @@ Le choix de ξ influence l’erreur E(f) = I – I(f) :
 <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/18.PNG" /> Il s’agit de la méthode du point milieu qui est d’ordre 1.</br>
 
 Ainsi, le choix du point milieu améliore l’ordre de la méthode : celle du rectangle est exacte (c’est-à-dire E(f) = 0) pour les fonctions constantes alors que celle du point milieu est exacte pour les polynômes de degré 1. Ceci s’explique par le fait que l’écart d’intégration de la méthode du point milieu donne lieu à deux erreurs d’évaluation, de valeurs absolues égales et de signes opposés.</p>
-
-<p>on approche<img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/6.png" />
-par 
-<img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/7.png" /> .</br>
-Géométriquement, cela signifie qu'on approche l'intégrale de f par l'aire des trapèzes hachurés en marron :<br />
-<img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/8.png" /></p> </p>
-
-<li><p> <strong>la méthode du point milieu: <p> </strong></li>
 <p>  on approche <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/9.png" />
 par <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/10.png" />
 Géométriquement, cela signifie qu'on approche l'intégrale de f par l'aire des rectangles hachurés en bleu :<br />
