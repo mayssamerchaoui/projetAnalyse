@@ -8,8 +8,8 @@ Ce projet permet d'étuder une fonction f(x) et de représenter graphiquement le
 
 <strong> <p>Méthodes d'intégration numérique</strong> </p>
 
-Si f est une fonction continue sur un intervalle [a,b], bien souvent on ne sait pas calculer une primitive de f. Ainsi, si l'on désire obtenir la valeur de , il faut parfois se contenter d'obtenir une valeur approchée à l'aide d'une méthode d'intégration numérique.
-  La plupart des méthodes d'intégration numérique fonctionnent sur le même principe. On commence par couper le gros intervalle [a,b] en N plus petits intervalles [ai,ai+1], avec a1=a et aN+1=b. Puis, pour chaque intervalle [ai,ai+1], on essaie d'approcher . Les moyens les plus simples sont :
+Si f est une fonction continue sur un intervalle [a,b], bien souvent on ne sait pas calculer une primitive de f. Ainsi, si l'on désire obtenir la valeur de <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/4.png" /> , il faut parfois se contenter d'obtenir une valeur approchée à l'aide d'une méthode d'intégration numérique.
+  La plupart des méthodes d'intégration numérique fonctionnent sur le même principe. On commence par couper le gros intervalle [a,b] en N plus petits intervalles [ai,ai+1], avec a1=a et aN+1=b. Puis, pour chaque intervalle [ai,ai+1], on essaie d'approcher <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/5.png" />. Les moyens les plus simples sont :
 
 <p> <strong>Méthode des Rectangles à gauche</strong> </p>
 <p>on approche  <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/1.png" />
@@ -22,9 +22,5 @@ Si f est une fonction continue sur un intervalle [a,b], bien souvent on ne sait 
 
 <p> <strong>Méthode du Trapèse</strong> </p>
 
-On considère une fonction $f(x)$ définie sur un intervalle $[a,b]$ , et dont on veut calculer l’intégrale $ ∫ f(x) dx$ sur ce même intervalle. La méthode des trapèzes consiste à diviser l’intervalle $[a,b]$ en une série d’intervalles $[x_i-_1,x_i]$ , à remplacer la courbe $y = f(x)$ par un segment de droite, et à calculer l’aire du trapèze ainsi obtenu.
-
-<p> <strong>Méthode du Simpson</strong> </p>
-En général, pour appliquer cette méthode d'intégration, on découpe l'intervalle [a,b] en n intervalles de longueur (b−a)/n ( b − a ) / n , et on applique la formule précédente sur chacun des sous-intervalles. On a alors, en posant h=b−an h = b − a n : ∫baf(t)dt≃h6n−1∑k=0(f(a+kh)+4f(a+(k+1/2)h)+f(a+(k+1)h))
 
 
