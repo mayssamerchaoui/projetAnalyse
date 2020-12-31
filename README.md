@@ -38,8 +38,8 @@ Géométriquement, cela signifie qu'on approche l'intégrale de f par l'aire des
   
   <p> <strong>La méthode de Simpson :<p> <strong> 
   
-  <p>consiste en l'pproximation suivante:
  
-  <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/12.PNG" /></p>
-  <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/14.PNG" /></p> </p>
+
+ on approche <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/15.PNG" /></p>
+par  <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/16.PNG" /></p> </p>
 
