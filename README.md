@@ -35,20 +35,17 @@ Le choix de ξ influence l’erreur E(f) = I – I(f) :
 <ul>
     <li> Si ξ = a ou ξ = b, l’erreur est donnée par:</li>
   </ul>
-<img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/17.PNG" />
-
-C’est la méthode du rectangle qui est d’ordre 0.
+<img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/17.PNG" /> C’est la méthode du rectangle qui est d’ordre 0.
     <ul>  
   <li>Si ξ = (a + b)/2, l’erreur est donnée par:</li>
   </ul>
-<img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/18.PNG" /><br/>
+<img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/18.PNG" /> Il s’agit de la méthode du point milieu qui est d’ordre 1.</br>
 
-Il s’agit de la méthode du point milieu qui est d’ordre 1.
 Ainsi, le choix du point milieu améliore l’ordre de la méthode : celle du rectangle est exacte (c’est-à-dire E(f) = 0) pour les fonctions constantes alors que celle du point milieu est exacte pour les polynômes de degré 1. Ceci s’explique par le fait que l’écart d’intégration de la méthode du point milieu donne lieu à deux erreurs d’évaluation, de valeurs absolues égales et de signes opposés.</p>
 
 <p>on approche<img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/6.png" />
 par 
-<img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/7.png" /> .
+<img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/7.png" /> .</br>
 Géométriquement, cela signifie qu'on approche l'intégrale de f par l'aire des trapèzes hachurés en marron :<br />
 <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/8.png" /></p> </p>
 
@@ -65,9 +62,9 @@ Géométriquement, cela signifie qu'on approche l'intégrale de f par l'aire des
 
 L’erreur globale est donnée par
 <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/21.PNG" />
-Remarque : comme la méthode du point milieu qui caractérise un polynôme de degré 0 et qui reste exacte pour tout polynôme de degré 1, la méthode de Simpson caractérise un polynôme de degré 2 et reste exacte pour tout polynôme de degré 3. Il s’agit d’une sorte d’anomalie où se produisent des compensations bénéfiques à l’ordre de la méthode.
+REMARQUE: comme la méthode du point milieu qui caractérise un polynôme de degré 0 et qui reste exacte pour tout polynôme de degré 1, la méthode de Simpson caractérise un polynôme de degré 2 et reste exacte pour tout polynôme de degré 3. Il s’agit d’une sorte d’anomalie où se produisent des compensations bénéfiques à l’ordre de la méthode.</br>
 <p> on approche <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/15.PNG" />
-par  <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/16.PNG" /></p> </p>
+par  <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/16.PNG" /></br>
 Géométriquement,La courbe rouge représente le polynôme d'approximation P(x):<br />
 <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/14.PNG" /> 
 
