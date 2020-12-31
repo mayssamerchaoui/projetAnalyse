@@ -37,7 +37,10 @@ Géométriquement, cela signifie qu'on approche l'intégrale de f par l'aire des
   <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/11.png" /></p> </p>
   
   <li><p> <strong>La méthode de Simpson :</p> </strong> </li>
- on approche <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/15.PNG" /></p>
+<p> on approche <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/15.PNG" />
 par  <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/16.PNG" /></p> </p>
+Géométriquement,La courbe rouge représente le polynôme d'approximation P(x):<br />
+<img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/14.PNG" /> 
+
 </ol>
 
