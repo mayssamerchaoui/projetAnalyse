@@ -23,13 +23,14 @@ Si f est une fonction continue sur un intervalle [a,b], bien souvent on ne sait 
 
 <p> <strong>Méthode du Trapèse</strong> </p>
 
-on approche<img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/6.png" /></p>  par <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/7.png" /></p> . Géométriquement, cela signifie qu'on approche l'intégrale de f par l'aire des trapèzes hachurés en marron :<img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/8.png" /></p>
+<p>on approche<img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/6.png" /></p>  par 
+<img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/7.png" /></p> .Géométriquement, cela signifie qu'on approche l'intégrale de f par l'aire des trapèzes hachurés en marron :<img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/8.png" /></p>
 <p> <strong>la méthode du point milieu /<p> </strong>
   on approche <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/9.png" /></p> par <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/10.png" /></p> . Géométriquement, cela signifie qu'on approche l'intégrale de f par l'aire des rectangles hachurés en bleu :
-  <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/11.png" /></p>
+  <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/11.png" /></p> <p>
   
   <p> <strong>La méthode de Simpson<p> <strong> 
-  est une méthode de calcul approché d'intégrale. Elle consiste en l'approximation suivante  
+  <p> Elle consiste en l'approximation suivante  
   <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/12.PNG" /></p>
-  <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/14.PNG" /></p>
+  <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/14.PNG" /></p><p>
 
