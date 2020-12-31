@@ -29,7 +29,8 @@ on approche<img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main
   <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/11.png" /></p>
   
   <p> <strong>La méthode de Simpson<p> <strong> 
-  est une méthode de calcul approché d'intégrale. Elle consiste en l'approximation suivante   <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/12.png" /></p>
+  est une méthode de calcul approché d'intégrale. Elle consiste en l'approximation suivante  
+  <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/12.png" /></p>
 
 
 
