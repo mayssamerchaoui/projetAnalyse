@@ -21,6 +21,7 @@ Si f est une fonction continue sur un intervalle [a,b], bien souvent on ne sait 
 
 
 <p> <strong>Méthode du Trapèse</strong> </p>
+la méthode des trapèzes: on approche<img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/6.png" /></p>  par <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/7.png" /></p> . Géométriquement, cela signifie qu'on approche l'intégrale de f par l'aire des trapèzes hachurés en marron :<img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/8.png" /></p>
 
 
 
