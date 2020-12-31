@@ -11,29 +11,35 @@ Ce projet permet d'étuder une fonction f(x) et de représenter graphiquement le
 Si f est une fonction continue sur un intervalle [a,b], bien souvent on ne sait pas calculer une primitive de f. Ainsi, si l'on désire obtenir la valeur de <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/4.png" /> , il faut parfois se contenter d'obtenir une valeur approchée à l'aide d'une méthode d'intégration numérique.
   La plupart des méthodes d'intégration numérique fonctionnent sur le même principe. On commence par couper le gros intervalle [a,b] en N plus petits intervalles [ai,ai+1], avec a1=a et aN+1=b. Puis, pour chaque intervalle [ai,ai+1], on essaie d'approcher <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/5.png" />. Les moyens les plus simples sont :
 
-<p> <strong>Méthode des Rectangles à gauche</strong> </p>
+<p> <strong>Méthode des Rectangles à gauche :</strong> </p>
+
 <p>on approche  <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/1.png" />
  par  <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/2.png" /> . 
  Géométriquement, cela signifie qu'on approche l'intégrale de f par l'aire des rectangles hachurés en vert :<br />
   
   
- <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/3.png" /></p>
+ <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/3.png" /></p> </p>
 
 
 
-<p> <strong>Méthode du Trapèse</strong> </p>
+<p> <strong>Méthode du Trapèse :</strong> </p>
 
 <p>on approche<img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/6.png" /></p> 
 par 
 <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/7.png" /></p> .
 Géométriquement, cela signifie qu'on approche l'intégrale de f par l'aire des trapèzes hachurés en marron :
-<img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/8.png" /></p>
-<p> <strong>la méthode du point milieu /<p> </strong>
-  on approche <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/9.png" /></p> par <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/10.png" /></p> . Géométriquement, cela signifie qu'on approche l'intégrale de f par l'aire des rectangles hachurés en bleu :
-  <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/11.png" /></p> <p>
+<img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/8.png" /></p> </p>
+
+<p> <strong>la méthode du point milieu: <p> </strong>
+<p>  on approche <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/9.png" /></p> 
+par <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/10.png" /></p> . 
+Géométriquement, cela signifie qu'on approche l'intégrale de f par l'aire des rectangles hachurés en bleu :
+  <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/11.png" /></p> </p>
   
-  <p> <strong>La méthode de Simpson<p> <strong> 
-  <p> Elle consiste en l'approximation suivante  
+  <p> <strong>La méthode de Simpson :<p> <strong> 
+  
+  <p>consiste en l'pproximation suivante:
+ 
   <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/12.PNG" /></p>
-  <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/14.PNG" /></p><p>
+  <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/14.PNG" /></p> </p>
 
