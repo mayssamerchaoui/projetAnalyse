@@ -27,14 +27,14 @@ Si f est une fonction continue sur un intervalle [a,b], bien souvent on ne sait 
 <p>on approche<img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/6.png" />
 par 
 <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/7.png" /> .
-Géométriquement, cela signifie qu'on approche l'intégrale de f par l'aire des trapèzes hachurés en marron :
+Géométriquement, cela signifie qu'on approche l'intégrale de f par l'aire des trapèzes hachurés en marron :<br />
 <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/8.png" /></p> </p>
 
 <li><p> <strong>la méthode du point milieu: <p> </strong></li>
-<p>  on approche <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/9.png" /></p> 
-par <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/10.png" /></p> </br>. 
-Géométriquement, cela signifie qu'on approche l'intégrale de f par l'aire des rectangles hachurés en bleu :
-  <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/11.png" /></p> </p></br>
+<p>  on approche <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/9.png" />
+par <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/10.png" />
+Géométriquement, cela signifie qu'on approche l'intégrale de f par l'aire des rectangles hachurés en bleu :<br />
+  <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/11.png" /></p> </p>
   
   <li><p> <strong>La méthode de Simpson :</p> </strong> </li>
  on approche <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/15.PNG" /></p>
