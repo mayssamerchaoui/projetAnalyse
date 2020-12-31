@@ -32,14 +32,11 @@ Géométriquement, cela signifie qu'on approche l'intégrale de f par l'aire des
 
 <li><p> <strong>la méthode du point milieu: <p> </strong></li>
 <p>  on approche <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/9.png" /></p> 
-par <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/10.png" /></p> . 
+par <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/10.png" /></p> </br>. 
 Géométriquement, cela signifie qu'on approche l'intégrale de f par l'aire des rectangles hachurés en bleu :
-  <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/11.png" /></p> </p>
+  <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/11.png" /></p> </p></br>
   
-  <li><p> <strong>La méthode de Simpson :</p> </strong> <li>
-  
- 
-
+  <li><p> <strong>La méthode de Simpson :</p> </strong> </li>
  on approche <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/15.PNG" /></p>
 par  <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/16.PNG" /></p> </p>
 </ol>
