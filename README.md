@@ -27,10 +27,10 @@ Considérons donc une fonction de R dans R continue sur un intervalle [a,b]. Pou
 
 <li><p> <strong>Méthode du Trapèse :</strong> </p></li>
 
-<p>Le principe est d'assimiler la région sous la courbe représentative d'une fonction f définie sur un segment [a , b] à un trapèze et d'en calculer l'aire T :
+<p>Le principe est d'assimiler la région sous la courbe représentative d'une fonction f définie sur un segment [a , b] à un trapèze et d'en calculer l'aire T :<br/>
 
-<img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/22.PNG" />
-Erreur:</br>
+<img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/22.PNG" /><br/>
+<p><em>Erreur:</em></p><br/>
 En analyse numérique l'erreur est par convention la différence entre la valeur exacte (limite) et son approximation par un nombre fini d'opérations. (« Il est d'usage d'entendre par erreur d'un nombre approché a la différence entre le nombre exact A correspondant et le nombre approché, Δa=A-a »1)..
 
 L'erreur d'approximation par un polynôme de Taylor est le reste de la série de Taylor, et l'erreur de quadrature est l'aire totale sous la courbe moins la somme des aires des trapèzes 2,3,4.
@@ -43,11 +43,12 @@ Pour une fonction à valeurs réelles, deux fois continûment différentiable su
 pour un certain , (méthode du premier ordre).
 
 Dans le cas d'une fonction convexe (dérivée seconde positive), l'aire du trapèze est donc une valeur approchée par excès de l'intégrale.
-
+</p>
 
 <p>on approche<img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/6.png" />
 par 
 <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/7.png" /> .</br>
+
 Géométriquement, cela signifie qu'on approche l'intégrale de f par l'aire des trapèzes hachurés en marron :<br />
 <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/8.png" /></p> </p>
 
@@ -80,7 +81,7 @@ Géométriquement, cela signifie qu'on approche l'intégrale de f par l'aire des
 
 L’erreur globale est donnée par
 <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/21.PNG" /></br>
-REMARQUE: comme la méthode du point milieu qui caractérise un polynôme de degré 0 et qui reste exacte pour tout polynôme de degré 1, la méthode de Simpson caractérise un polynôme de degré 2 et reste exacte pour tout polynôme de degré 3. Il s’agit d’une sorte d’anomalie où se produisent des compensations bénéfiques à l’ordre de la méthode.</br>
+<p><em>REMARQUE:</p></em> comme la méthode du point milieu qui caractérise un polynôme de degré 0 et qui reste exacte pour tout polynôme de degré 1, la méthode de Simpson caractérise un polynôme de degré 2 et reste exacte pour tout polynôme de degré 3. Il s’agit d’une sorte d’anomalie où se produisent des compensations bénéfiques à l’ordre de la méthode.</br>
 <p> on approche <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/15.PNG" />
 par  <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/16.PNG" /></br>
 Géométriquement,La courbe rouge représente le polynôme d'approximation P(x):<br />
