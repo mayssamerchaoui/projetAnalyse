@@ -36,7 +36,7 @@ par <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/10.png
 Géométriquement, cela signifie qu'on approche l'intégrale de f par l'aire des rectangles hachurés en bleu :
   <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/11.png" /></p> </p>
   
-  <p> <strong>La méthode de Simpson :<p> <strong> 
+  <p> <strong>La méthode de Simpson :</p> </strong> 
   
  
 
