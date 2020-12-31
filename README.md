@@ -1,5 +1,6 @@
 # projetAnalyse
 
+
 <p> <strong><h2>Introduction général </h2></strong> </p>
 En analyse numérique, il existe une vaste famille d’algorithmes dont le but principal est d’estimer la valeur numérique de l’intégrale définie sur un domaine particulier pour une fonction donnée (par exemple l’intégrale d’une fonction d’une variable sur un intervalle). voila des exemple que le calcule simple d integrale est impossible
 
