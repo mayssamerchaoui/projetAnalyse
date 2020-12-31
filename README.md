@@ -11,7 +11,7 @@ Ce projet permet d'étuder une fonction f(x) et de représenter graphiquement le
 Si f est une fonction continue sur un intervalle [a,b], bien souvent on ne sait pas calculer une primitive de f. Ainsi, si l'on désire obtenir la valeur de <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/4.png" /> , il faut parfois se contenter d'obtenir une valeur approchée à l'aide d'une méthode d'intégration numérique.
   La plupart des méthodes d'intégration numérique fonctionnent sur le même principe. On commence par couper le gros intervalle [a,b] en N plus petits intervalles [ai,ai+1], avec a1=a et aN+1=b. Puis, pour chaque intervalle [ai,ai+1], on essaie d'approcher <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/5.png" />. Les moyens les plus simples sont :
 
-<p> <strong>Méthode des Rectangles à gauche :</strong> </p>
+<p> <strong> <h4>Méthode des Rectangles à gauche :</h4></strong> </p>
 
 <p>on approche  <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/1.png" />
  par  <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/2.png" /> . 
