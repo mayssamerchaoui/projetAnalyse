@@ -30,7 +30,7 @@ on approche<img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main
   
   <p> <strong>La méthode de Simpson<p> <strong> 
   est une méthode de calcul approché d'intégrale. Elle consiste en l'approximation suivante  
-  <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/12.png" /></p>
+  <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/12.PNG" /></p>
 
 
 
