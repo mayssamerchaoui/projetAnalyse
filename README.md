@@ -12,8 +12,6 @@ Si f est une fonction continue sur un intervalle [a,b], bien souvent on ne sait 
   La plupart des méthodes d'intégration numérique fonctionnent sur le même principe. On commence par couper le gros intervalle [a,b] en N plus petits intervalles [ai,ai+1], avec a1=a et aN+1=b. Puis, pour chaque intervalle [ai,ai+1], on essaie d'approcher <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/5.png" />. Les moyens les plus simples sont :
 <ol>
 <li><p> <strong>Méthode des Rectangles à gauche :</strong> </p></li>
- </ol>
-
 
 <p>on approche  <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/1.png" />
  par  <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/2.png" /> . 
@@ -24,7 +22,7 @@ Si f est une fonction continue sur un intervalle [a,b], bien souvent on ne sait 
 
 
 
-<p> <strong>Méthode du Trapèse :</strong> </p>
+<li><p> <strong>Méthode du Trapèse :</strong> </p></li>
 
 <p>on approche<img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/6.png" /></p> 
 par 
@@ -32,16 +30,17 @@ par
 Géométriquement, cela signifie qu'on approche l'intégrale de f par l'aire des trapèzes hachurés en marron :
 <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/8.png" /></p> </p>
 
-<p> <strong>la méthode du point milieu: <p> </strong>
+<li><p> <strong>la méthode du point milieu: <p> </strong></li>
 <p>  on approche <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/9.png" /></p> 
 par <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/10.png" /></p> . 
 Géométriquement, cela signifie qu'on approche l'intégrale de f par l'aire des rectangles hachurés en bleu :
   <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/11.png" /></p> </p>
   
-  <p> <strong>La méthode de Simpson :</p> </strong> 
+  <li><p> <strong>La méthode de Simpson :</p> </strong> <li>
   
  
 
  on approche <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/15.PNG" /></p>
 par  <img src= "https://github.com/mayssamerchaoui/projetAnalyse/blob/main/16.PNG" /></p> </p>
+</ol>
 
